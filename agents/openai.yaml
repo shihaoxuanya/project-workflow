@@ -1,0 +1,6 @@
+interface:
+  display_name: "项目团队工作流"
+  short_description: "根据项目想法设计岗位分工，确认后创建团队，开工后自动交接与验收"
+  default_prompt: "使用 $project-workflow，我想做一个电商平台，请分析需要哪些岗位并给出协作方案。"
+policy:
+  allow_implicit_invocation: true
