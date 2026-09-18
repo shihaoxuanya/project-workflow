@@ -60,3 +60,5 @@ Git 项目默认使用 worktree，并显式同步交付版本；非 Git 项目�
 ## 验证
 
 通过技能格式校验，以及软件、内容、研究场景的独立行为模拟；覆盖授权边界、部分创建失败、重复派单、跨 worktree 交接、返工限制与暂停恢复。
+## 贡献者
+感谢 [rosyrongrong](https://github.com/rosyrongrong) 参与项目共创。
